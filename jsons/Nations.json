@@ -30,10 +30,6 @@
 		"outerColor": [128,0,32],
 		"innerColor": [255,103,0],
 		"unique": "The revolution isn't perfect...",
-		"Militaristic City-States grant units [5] times as fast when you are at war with a common nation",
-		"[+25]% [Happiness] [in all cities]",
-		"[2] free [great merchant] units appear <upon declaring war with a major Civilization>",
-		"[+50]% [Science] [in all cities] <when at war>",
 		
 		"cities": ["The Heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
 			"Last line of defense"]
