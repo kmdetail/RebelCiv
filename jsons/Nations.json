@@ -30,10 +30,8 @@
 		"outerColor": [128,0,32],
 		"innerColor": [255,103,0],
 		"uniqueName": "The revolution isn't perfect...",
-		"uniqueText": "Allied militaristic city-states grant units faster when at war with another civilization.",
-		              "Rebel units may spawn in enemy cities when at war.",
-		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <in [Your] cities>"],
-		           ["Rebel units may spawn <when at war> <in [Enemy] cities> <every [2] turns>"],
+		"uniqueText": "Allied militaristic city-states grant units faster when at war with another civilization.","Rebel units may spawn in enemy cities when at war.",
+		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <in [Your] cities>"],["Rebel units may spawn <when at war> <in [Enemy] cities> <every [2] turns>"],
 		"cities": ["The Heart","New Hope","Paradise","The Forge","Firebase Alpha","Firebase Bravo","Firebase Charlie","Firebase Delta"],
 	}
 ]
