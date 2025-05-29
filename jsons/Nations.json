@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Kenkai",
+		"leaderName": "Kendal the burning heart",
+		"adjective": ["Rebel"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Kendal, leader of the glorious revolution",
+		"startIntroPart2": "A nation that struggles to provide the very basic necessitiesto sustain life for its people, is a nation that will fall into chaos. When the nations around you fall for their own greed, or desire for lands that arent theirs, who will rise up to stop them? You are, Kendal.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "My people have agreed your nation is a danger to us, i hope your peoples support you for what comes next.",
+		"attacked": "Your play for power will only end in your ruin. I only weep for your citizens.",
+		"defeated": "I suppose our passion for a free world wasn't shared. The revolution isn't perfect, but it was needed. And now it ends.",
+		"introduction": "Hello fellow leader, you enter the lands of the truly free. Are you a great leader? Or a tyrant to be overthrown?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "The winds of change bring us together once more.",
+		"neutralLetsHearIt": ["Interesting.","Thoughts?","Lead on."],
+		"neutralNo": ["Wild.","No sir.","No need to say everything that comes to mind."],
+		"neutralYes": ["Good idea!","Yea, i think that works.","Now that's brilliant."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Coming here like im not itching to kill you is crazy.",
+		"hateLetsHearIt": ["Its your meeting, speak!","Give it to me straight.","Uh huh."],
+		"hateNo": ["what else did i expect?","Get bent.","Uh... what?"],
+		"hateYes": ["Whatever, sure.","Get a load of this guy.","Mayhaps."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Really whiffed that war huh? Best to back out and make friendly.",
+		"tradeRequest": "Check this out, dont say no or I'll look really bad to my advisors.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [128,0,32],
+		"innerColor": [255,103,0],
+		"unique": "The revolution isn't perfect...",
+		["Earn [10]% of killed [Military] unit's [Strength] as [Happiness]"],
+		"Militaristic City-States grant units [5] times as fast when you are at war with a common nation"
+		
+		"cities": ["The Heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
+			"Last line of defense"]
 	}
 ]
