@@ -4,11 +4,11 @@
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 15,
-		"rangedStrength": 20,
+		"rangedStrength": 15,
 		"cost": 120,
 		"requiredTech": "Physics",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit","Self-destructs when attacking"],
 		"attackSound": "cannon"
 	}
 ]
