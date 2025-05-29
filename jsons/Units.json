@@ -8,7 +8,7 @@
 		"cost": 120,
 		"requiredTech": "Physics",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit","Self-destructs when attacking"],
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit","Self-destructs when attacking","May enter foreign tiles without open borders"],
 		"attackSound": "cannon"
 	}
 ]
