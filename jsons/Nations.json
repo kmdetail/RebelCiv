@@ -32,7 +32,11 @@
 		"uniqueName": "The revolution isn't perfect...",
 		"uniqueText": "Allied militaristic city-states grant units faster when at war with another civilization.",
 		["Militaristic City-States grant units [5] times as fast when you are at war with a common nation"],
-		"cities": ["The heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
-			"Last line of defense"],
+		
+		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
+			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
+			"Aratta","Kutu","Der"]
+	},
 	}
 ]
