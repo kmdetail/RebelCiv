@@ -31,7 +31,9 @@
 		"innerColor": [255,103,0],
 		"unique": "The revolution isn't perfect...",
 		["Earn [10]% of killed [Military] unit's [Strength] as [Happiness]"],
-		"Militaristic City-States grant units [5] times as fast when you are at war with a common nation"
+		"Militaristic City-States grant units [5] times as fast when you are at war with a common nation",
+		[+2 Happiness, +2 Gold] from [Luxury] tiles without [Improvement] [in All Cities],
+                [+2 food, +2 production, +2 science] from [Desert] tiles without [Improvement] [in All Cities]
 		
 		"cities": ["The Heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
 			"Last line of defense"]
