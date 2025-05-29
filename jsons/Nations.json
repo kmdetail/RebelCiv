@@ -30,8 +30,8 @@
 		"outerColor": [128,0,32],
 		"innerColor": [255,103,0],
 		"unique": "The revolution isn't perfect...",
-		["Militaristic City-States grant units [5] times as fast when you are at war with a common nation"],
-		"cities": ["The Heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
-			"Last line of defense"]
+		"Militaristic City-States grant units [5] times as fast when you are at war with a common nation",
+		"cities":,"The heart","Paradise","Haven","Old Town","The forge","Iron lands","Outerlands","Firebase alpha","Firebase bravo",
+			"Last line of defense"
 	}
 ]
