@@ -31,7 +31,7 @@
 		"innerColor": [255,103,0],
 		"uniqueName": "The revolution isn't perfect...",
 		"uniqueText": "Allied militaristic city-states grant units faster when at war with another civilization.",
-		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <in [in capital] cities>"],
+		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <in [Your] cities>"],
 		"cities": ["The Heart","New Hope","Paradise","The Forge","Firebase Alpha","Firebase Bravo","Firebase Charlie","Firebase Delta"],
 	}
 ]
